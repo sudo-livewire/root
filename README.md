@@ -1,2 +1,2 @@
 # root
-Everything I have done so far is in here
+Shag Academy tasks, classworks, and other stuff from learning
